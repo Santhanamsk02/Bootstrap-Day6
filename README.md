@@ -12,13 +12,6 @@ Welcome to the **Starbucks Landing Page Clone** — a stylish and interactive we
 - ✅ Mobile-friendly **off-canvas menu**
 - ✅ Hover effects for product thumbnails
 
----
-
-## 📸 Preview
-
-![Preview](img-2/img1.png)
-
-> Click on the thumbnails to change the drink in the main view!
 
 ---
 
